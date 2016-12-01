@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Engineer, Consultant, BI Developer in MarTech</title>
+    <link>http://andrewrgoss.github.io/adblock-landing-page/</link>
+    <description>Recent content on Data Engineer, Consultant, BI Developer in MarTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <atom:link href="http://andrewrgoss.github.io/adblock-landing-page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Search results</title>
+      <link>http://andrewrgoss.github.io/adblock-landing-page/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/adblock-landing-page/search/</guid>
+      <description>A lot of ad/tracker blockers like Ghostery are blocking Google Custom Search Engine. Allow &lt;i&gt;Google AJAX Search API&lt;/i&gt; to show your search results.
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;gcse:searchresults-only linktarget=&#34;_parent&#34;&gt;&lt;/gcse:searchresults-only&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
