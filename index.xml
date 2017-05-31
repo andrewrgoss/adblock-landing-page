@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Engineer, Consultant, BI Developer in MarTech</title>
+    <link>https://andrewrgoss.github.io/adblock-landing-page/</link>
+    <description>Recent content on Data Engineer, Consultant, BI Developer in MarTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <atom:link href="https://andrewrgoss.github.io/adblock-landing-page/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
